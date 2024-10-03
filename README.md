@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isakrs
-- 👀 Passion: algorithms design, readable code and simple and beautiful webpage.
+- 👀 Passion: algorithms, readable code, and simple and beautiful webpages.
 - 🌱 Fullstack engineer, coming from a data science background.
 - 📫 Linkedin: [LinkedIn](https://www.linkedin.com/in/isakrathestoere/) 
 
